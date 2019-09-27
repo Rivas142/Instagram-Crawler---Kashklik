@@ -1,0 +1,8 @@
+{
+  "proxy_http": "ENTER PROXY IP",
+  "proxy_https": "ENTER PROXY IP",
+  "webpage_hashtags": "https://www.instagram.com/explore/tags/",
+  "webpage_profile": "https://www.instagram.com/",
+  "pic_link_xpath": "//div[@class=\"v1Nh3 kIKUG  _bz0w\"]//a",
+  "chromedriver_path": "ENTER ABSOLUTE PATH TO CHROMEDRIVER HERE"
+}

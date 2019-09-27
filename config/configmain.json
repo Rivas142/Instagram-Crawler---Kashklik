@@ -1,0 +1,11 @@
+{
+  "hashtags": ["ENTER HASHTAG", "ENTER HASHTAG", "ENTER HASHTAG"],
+  "num_pictures": 100,
+  "threads": 2,
+  "folder_path": "users",
+  "headless": true,
+  "proxy": false,
+  "min_followers": 10000,
+  "max_followers": 10000000
+}
+
