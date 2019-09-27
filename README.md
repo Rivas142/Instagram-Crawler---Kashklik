@@ -1,5 +1,5 @@
 # KashKlik Instagram Crawler Public Version
-This crawler was completed as part of a Summer 2019 internship at [KashKlik](https://www.kashklik.com/). It is an Instagram web crawler written in Python designed to find potential social media influencers to reach out based on the hashtags they post under.
+This crawler was completed as part of a Summer 2019 internship at [KashKlik](https://www.kashklik.com/). It is an Instagram web crawler written in Python designed to find potential social media influencers to reach out to based on the hashtags they post under.
 
 Created by [David Kocen](https://github.com/dkocen) and [Luis Rivas](https://github.com/Rivas142)
 
